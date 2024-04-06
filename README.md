@@ -1,2 +1,1 @@
 # Road-Accident-Analysis
-A Power BI project illuminating insights into road safety. We analyze accidents by road type, casualties by vehicle type, and urban/rural areas. Our graphs reveal correlations between casualties and road surface/light conditions. Additionally, we present monthly/yearly casualty trends for strategic planning. This project empowers stakeholders to make data-driven decisions, fostering safer road infrastructure and effective traffic management.
